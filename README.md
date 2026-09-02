@@ -14,3 +14,9 @@ StudentHub es una plataforma digital para gestionar estudiantes, cursos y servic
 
 
 El proyecto sera desarrollado colaborativamente utilizando Git y Github
+
+## Reglas del equipo
+
+- Mantener una comunicación clara.
+- Revisar los cambios antes de hacer merge.
+- Usar Pull Requests para integrar cambios.
